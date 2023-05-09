@@ -18,15 +18,6 @@ format:
     embed-resources: true
     code-fold: false
     html-math-method: katex # displays equations
-  docx: 
-    reference-doc: customreference_nonb.docx
-  pdf:
-    code-line-numbers: true
-    geometry: 
-      - top=20mm
-      - left=20mm 
-  pptx:
-    reference-doc: template.pptx
 
 execute:
   freeze: auto  # re-render only when source changes

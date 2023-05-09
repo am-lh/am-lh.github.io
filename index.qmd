@@ -2,8 +2,7 @@
 title: "Amélie Lehuen projects"
 ---
 
-I started my life as a chemical engineer, and worked for 14 years in the chemical industry, before deciding to change my career in 2018.
-
-# Title of the PhD ongoing
+# 
+Title of the PhD ongoing
 
 Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine EStuary
