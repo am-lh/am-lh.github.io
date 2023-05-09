@@ -1,31 +1,21 @@
-# NEW PROJECT DIRECTORY
-Create here a new Rproject file for further execution
+# My first site
 
-Organisation of scripts
+## All results have been obtained using sources like:
 
-## 1.get data 
+<https://ucsb-meds.github.io/creating-quarto-websites/#additional-resources-to-get-you-stoked-about-quarto>
 
-	qmd doc optional but more visually pleasing
-	load and basic processing
-	more advanced statistical analysis
-	save data as xlsx optional
+<https://quarto.org/docs/websites/>
 
-## 2.general graphics visualization
+to be explored :
 
-	in qmd presentation to put the graphs in slides and visualize them easily
-	save plots in rdata, including in list if for loop
-	save graphs in tiff dpi 400 max
+<https://github.com/quarto-ext/fontawesome>
 
-## 3.models building calculation
+packages usefull:
 
-	qmd doc optional but more visually pleasing
-	save models in list if for loop
+<https://rstudio.github.io/distill/website.html>
 
-## 4.exploration model results
+<https://bookdown.org/yihui/blogdown/>
 
-	in qmd presentation to put the graphs in slides and visualize them easily
-	save plots in rdata, including in list if for loop
+## HTML version to explore:
 
-## 5.M&M and result qmd doc
-
-	include plots and save them in tiff dpi 600
+<https://rpubs.com/alatleephillips/science-website-tutorial>
