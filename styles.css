@@ -1,0 +1,12 @@
+.navbar-brand {
+    max-height: 90px;
+    margin: -8px;
+}
+
+.navbar-logo {
+    max-height: 90px;
+    max-width: 90px;
+    height: 89px;
+    width: 89px;
+    margin-top: -9px;
+}

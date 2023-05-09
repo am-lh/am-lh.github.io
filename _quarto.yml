@@ -13,11 +13,15 @@ website:
 
 format: 
   html: 
-    theme: mint
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
     embed-resources: true
     code-fold: false
     html-math-method: katex # displays equations
+    css: styles.css
+    page-layout: full
 
 execute:
   freeze: auto  # re-render only when source changes
