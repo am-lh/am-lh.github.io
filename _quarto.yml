@@ -1,0 +1,32 @@
+project:
+  type: website
+  title: "am_lh"
+  execute-dir: project
+  output-dir: docs
+date: "`r format(Sys.time(), '%B %Y')`"
+
+toc: true # table of content at beginning of document
+number-sections: true
+highlight-style: pygments
+
+format: 
+  html: 
+    embed-resources: true
+    self-contained-math: true
+    code-fold: false
+    html-math-method: katex # displays equations
+  docx: 
+    reference-doc: customreference_nonb.docx
+  pdf:
+    code-line-numbers: true
+    geometry: 
+      - top=20mm
+      - left=20mm 
+  pptx:
+    reference-doc: template.pptx
+
+execute:
+  freeze: auto  # re-render only when source changes
+  
+
+
