@@ -2,7 +2,8 @@
 title: "About"
 about:
   template: trestles
-  image: profile.jpg
+  image: ./Pictures/profile.jpg
+  image-shape: round
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/am%C3%A9lie-lehuen-5262bb143/
@@ -22,17 +23,9 @@ Methodical and rigorous with analytical and decisional abilities, reliable and s
 
 ## Education
 
-**2019-2020** **\|** MSc Ocean Sciences, Coastal Living Resources Exploitation -- Caen University
+**2019-20** **\|** MSc Ocean Sciences, Coastal Living Resources Exploitation -- Caen University
 
 **2018-19** **\|** BSc Professions of environmental protection & management Ecological restoration & sustainable development - Caen University of Technology
-
--   Natural habitats rehabilitation: Marine ecosystems management, Impact study, Ecological restoration, GIS, Bio / Phyto-remediation, Agroecology, Soil Remediation, Air Pollution
-
--   Habitats analysis: Biodiversity, Hydrogeology, Botany, Habitats interactions
-
--   Sustainable Development and Environmental Management: Environmental Law, Ecodesign, Waste Management
-
--   Tutored project: Primary production analysis of microphytobenthos on the Orne estuary foreshore and spectral data acquired by GIS.
 
 **2004** **\|** Engineer degree -- Rouen National Institute of Applied Sciences (INSA) Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
 
@@ -40,9 +33,7 @@ Methodical and rigorous with analytical and decisional abilities, reliable and s
 
 **2020 (ONGOING)** -- PHD -- UMR BOREA -- Caen
 
-Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary.
-
-Supervisor : Francis Orvain
+Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary. Supervisor : Francis Orvain
 
 **2020 (9 MONTHS)** -- RESEARCH ENGINEER -- INTERNSHIP AND FIXED-TERM CONTRACT -- UFR BOREA -- Caen
 
