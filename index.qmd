@@ -1,11 +1,9 @@
 ---
-title: "am-lh.github.io"
+title: "Amélie Lehuen projects"
 ---
 
-This is a Quarto website.
+I started my life as a chemical engineer, and worked for 14 years in the chemical industry, before deciding to change my career in 2018.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Title of the PhD ongoing
 
-```{r}
-1 + 1
-```
+Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine EStuary
