@@ -3,7 +3,14 @@ project:
   title: "am_lh"
   execute-dir: project
   output-dir: docs
-date: "`r format(Sys.time(), '%B %Y')`"
+
+website:
+  title: "today"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
 
 toc: true # table of content at beginning of document
 number-sections: true
@@ -11,6 +18,9 @@ highlight-style: pygments
 
 format: 
   html: 
+    theme: mint
+    css: styles.css
+    toc: true
     embed-resources: true
     self-contained-math: true
     code-fold: false
