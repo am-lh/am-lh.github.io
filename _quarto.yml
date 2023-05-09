@@ -1,11 +1,10 @@
 project:
   type: website
-  title: "am_lh"
   execute-dir: project
   output-dir: docs
 
 website:
-  title: "today"
+  title: "am-lh"
   navbar:
     left:
       - href: index.qmd
