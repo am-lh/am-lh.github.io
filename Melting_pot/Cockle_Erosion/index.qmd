@@ -1,5 +1,5 @@
 ---
-title: "COckle bioturbation effect on erosion"
+title: "Cockle bioturbation effect on erosion"
 description: "sample project"
 author:
   - name: Amélie Lehuen

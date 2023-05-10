@@ -3,11 +3,11 @@ title: "NEO Workshop"
 description: "sample project"
 author:
   - name: Amélie Lehuen
-date: 10-24-2022
-categories: [PhD, R, Data Analysis] # self-defined categories
+date: "`r format(Sys.time(), '%d %B %Y')`"
+categories: [R, Data Analysis] # self-defined categories
 citation: 
   url: https://am-lh.github.io/ 
-image: preview_image.png
+image: 2023-05-03_seminaire_NEO-web-2.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 format: 
   html: 
@@ -29,7 +29,16 @@ editor_options:
 
 # Introduction
 
+[University Communication (FR)](./Manuscripts/Site Unicaen.pdf)
+
 # Objectives
+
+Study of species distribution models ("Optimal Ecological Niche") and inter-SNO Taxonomic and Functional Distribution: Coupling of hydro-biological data (low frequency SOMLIT and high frequency COASTHF) to planktonic (PHYTOBS) and benthic (BENTHOS) species distribution data in coastal ecosystems of mainland France.
+
+The objective is to improve the mathematical formalisation and equations describing the occurrences of planktonic and benthic species in the form of an ecological response to hydrological descriptors ("optimal ecological niche"). The aim is to better describe how marine species can adapt or migrate along latitudinal gradients in the face of multiple pressures linked to global change and various anthropogenic pressures (exploitation of resources, eutrophication, modification of habitats, etc.).
+
+The goal is to propose recent statistical tools to explore the physico-chemical descriptors most likely to explain a large part of the spatio-temporal variation in species occurrences. The aim is to quantify the SDM (Species Distribution Model) response and the taxonomic and functional trajectories by testing all the ecological factors likely to give responses on a multi-site scale. 
+The statistical workshop was set up to test promising new data processing methods, such as non-linear quantile regressions (Koenker, 2005; Cozzoli et al., 2014) and biological community trajectories (Sturbois et al., 2020).
 
 # Preprocessing data
 ## Packages

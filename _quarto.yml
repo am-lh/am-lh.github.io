@@ -6,7 +6,7 @@ project:
 website:
   title: "am-lh"
   site-url: https://am-lh.github.io/
-  favicon: images/noun_shell_2156166.png
+  favicon: images/logoMP5.png
   navbar:
     left:
       - href: index.qmd
