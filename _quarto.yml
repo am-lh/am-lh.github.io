@@ -17,8 +17,6 @@ website:
         text: Melting Pot
       - href: Side_projects.qmd
         text: Side Projects
-      - href: Manuscripts/calendrier-2022-semestriel-vierge.pdf
-        text: NEO Workshop
   page-footer: 
     # background: light
     left: 
