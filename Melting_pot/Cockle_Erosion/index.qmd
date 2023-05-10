@@ -1,0 +1,76 @@
+---
+title: "COckle bioturbation effect on erosion"
+description: "sample project"
+author:
+  - name: Amélie Lehuen
+date: 10-24-2022
+categories: [PhD, R, Data Analysis] # self-defined categories
+citation: 
+  url: https://am-lh.github.io/ 
+image: preview_image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+format: 
+  html: 
+    toc: true
+editor: source
+engine: knitr
+code-fold: true
+execute:
+  eval: true
+  echo: false
+  message: false
+  warning: false
+  output: true
+  include: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# Introduction
+
+# Objectives
+
+# Preprocessing data
+## Packages
+```{r}
+#| label: load-packages
+
+list_packages <-c("beepr", "knitr", "conflicted", 
+    "tidyverse")
+# # Install packages not yet installed
+# installed_packages <- packages %in% rownames(installed.packages())
+# if (any(installed_packages == FALSE)) {
+#   install.packages(packages[!installed_packages])
+# }
+invisible(lapply(list_packages, library, character.only = TRUE))
+conflict_prefer("transpose", "purrr")
+
+```
+
+
+# Real work
+
+# Conclusion
+# Supplementary data
+
+## Session information
+
+::: {.callout-tip collapse="true"}
+## Expand for R Session Info
+
+```{r, echo = FALSE}
+#| include: true
+
+library(sessioninfo)
+pkg_sesh <- session_info(pkgs = "attached")
+quarto_version <- system("quarto --version", intern = TRUE)
+pkg_sesh$platform$quarto <- paste(
+  system("quarto --version", intern = TRUE),
+  "@",
+  quarto::quarto_path()
+  )
+pkg_sesh
+```
+:::
+
+# References {.unnumbered}

@@ -9,6 +9,7 @@
 to be explored :
 
 <https://github.com/quarto-ext/fontawesome>
+In <https://samanthacsik.github.io/> there a lot of stuff for a good website
 
 packages usefull:
 

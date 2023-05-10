@@ -5,26 +5,49 @@ project:
 
 website:
   title: "am-lh"
+  site-url: https://am-lh.github.io/
+  favicon: images/noun_shell_2156166.png
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: About
+      - href: Melting_pot.qmd
+        text: Melting Pot
+      - href: Side_projects.qmd
+        text: Side Projects
+      - href: Manuscripts/calendrier-2022-semestriel-vierge.pdf
+        text: NEO Workshop
+  page-footer: 
+    # background: light
+    left: 
+      - "Copyright 2023, Amélie Lehuen"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amélie-lehuen-5262bb143/
+      - icon: github
+        href: https://github.com/am-lh
+      - icon: twitter
+        href: https://twitter.com/PennyOakLh
+      - text: ResearchGate
+        href: https://www.researchgate.net/profile/Amelie-Lehuen
+      - text: Orcid
+        href: https://orcid.org/my-orcid?orcid=0000-0002-3150-687
+        
 format: 
   html: 
     theme:
       light: flatly
       dark: darkly
+    page-layout: full
     toc: true
     embed-resources: true
     code-fold: false
     html-math-method: katex # displays equations
     css: styles.css
-    page-layout: full
+    # mainfont: Nunito
 
-execute:
-  freeze: auto  # re-render only when source changes
   
-
+editor: visual
 

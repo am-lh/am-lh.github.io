@@ -1,28 +1,27 @@
 ---
-title: "About"
+title: "Amélie Lehuen"
 about:
   template: trestles
   image: ./Pictures/profile.jpg
   image-shape: round
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/am%C3%A9lie-lehuen-5262bb143/
-      icon: linkedin
-    - text: GitHub
-      href: https://github.com/am-lh
-      icon: github
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Amelie-Lehuen
-    - text: Email
-      href: mailto:amelie.lehuen@unicaen.fr
-    - text: Orcid
-      href: https://orcid.org/my-orcid?orcid=0000-0002-3150-6878
-    - text: Twitter
-      href: https://twitter.com/PennyOakLh
-      icon: twitter
+  # links:
+  #   - icon: linkedin
+  #     href: https://www.linkedin.com/in/amélie-lehuen-5262bb143/
+  #   - icon: github
+  #     href: https://github.com/am-lh
+  #   - icon: twitter
+  #     href: https://twitter.com/PennyOakLh
+  #   - text: ResearchGate
+  #     href: https://www.researchgate.net/profile/Amelie-Lehuen
+  #   - text: Orcid
+  #     href: https://orcid.org/my-orcid?orcid=0000-0002-3150-687
 ---
 
 Methodical and rigorous with analytical and decisional abilities, reliable and self-driven, seek and find team agreement thanks to leadership. Chemical project manager during 14 years, dedicated now to the natural heritage protection.
+
+## Complete Resume
+
+[Download PDF](Manuscripts/calendrier-2022-semestriel-vierge.pdf)
 
 ## Education
 
@@ -32,7 +31,7 @@ Methodical and rigorous with analytical and decisional abilities, reliable and s
 
 **2004** **\|** Engineer degree -- Rouen National Institute of Applied Sciences (INSA) Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
 
-\-\--
+------------------------------------------------------------------------
 
 ## Experience
 

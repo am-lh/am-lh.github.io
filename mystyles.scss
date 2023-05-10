@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+/* -- define Sass vars --*/
+
+// Colors
+$light-sage-green: #E2EFDE;
+$dark-sage-green: #98A08D;
+$cream: #FDFBF7;
+$gray: #64605f;
+$light-gray: #949799;
+$purple: #AE8BD1;
+$mint-green:#AFD0BF;
+
+
+$light-pink: #F172A1;
+$light-green: #479761;
+$pastel-coral: #FFCCBC;
+$light-turquoise: #99CED3;
+
+
+// Base Document Colors
+$navbar-bg: $mint-green; // navbard background color
+$footer-bg: $mint-green; // footer background color
+$body-bg: $light-sage-green; // tab background color:
+$link-color: $light-green;
+
+.navbar-brand img { // see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+  max-height: 45px;
+  width: auto;
+}
+
+.center {
+  text-align: center;
+  left: 50%;
+}
+
+.about-link-text { // button text size (landing page)
+  font-size: 18px;
+}
+
+.bi { // button icon size (landing page)
+  font-size: 18px;
+}
