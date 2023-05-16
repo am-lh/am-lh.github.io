@@ -2,7 +2,13 @@ project:
   type: website
   execute-dir: project
   output-dir: docs
-
+  render:
+    - "*.qmd"
+    # - "!Results/"
+    
+date: last-modified
+    
+# Website configuration
 website:
   title: "am-lh"
   site-url: https://am-lh.github.io/
@@ -17,10 +23,14 @@ website:
         text: Melting Pot
       - href: Side_projects.qmd
         text: Side Projects
+      - href: images/calendrier-2022-semestriel-vierge.pdf
+        text: test_pdf
   page-footer: 
     # background: light
     left: 
       - "Copyright 2023, Amélie Lehuen"
+      - text: CC BY-SA 4.0
+        href: https://creativecommons.org/licenses/by-sa/4.0/
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/amélie-lehuen-5262bb143/
@@ -33,19 +43,51 @@ website:
       - text: Orcid
         href: https://orcid.org/my-orcid?orcid=0000-0002-3150-687
         
+# general format parameters
+toc: true # table of content at beginning of document
+toc-location: left
+toc-depth: 3
+toc_float: TRUE
+number-sections: true
+highlight-style: pygments
+bibliography: references.bib
+        
+# specific format parameters
 format: 
   html: 
     theme:
       light: flatly
       dark: darkly
     page-layout: full
-    toc: true
-    embed-resources: true
-    code-fold: false
-    html-math-method: katex # displays equations
     css: styles.css
+    embed-resources: true
+    self-contained-math: true
+    html-math-method: katex # displays equations
+    toc: true
+    code-fold: true
     # mainfont: Nunito
+    # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
+    title-block-banner: images/photo-vasière.jpg
 
-  
-editor: visual
+  # docx: 
+  #   reference-doc: Manuscripts/customreference_nonb.docx
+  #   
+  # pdf:
+  #   code-line-numbers: true
+  #   geometry: 
+  #     - top=20mm
+  #     - left=20mm 
 
+# Execution parameters
+editor: source
+engine: knitr
+execute:
+  freeze: auto  # re-render only when source changes
+  eval: true
+  echo: false
+  message: false
+  warning: false
+  output: true
+  include: false
+editor_options: 
+  chunk_output_type: console

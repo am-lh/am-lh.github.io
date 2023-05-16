@@ -1,8 +1,20 @@
 .Rproj.user
 .Rhistory
 .RData
+.RDataTmp
 .Ruserdata
-.Rdata
+.quarto/
+_freeze/
+_archives/
+
+Biblio/
+Data/
+Manuscripts/
+Matrices/
+Pictures/
+Plots/
+Results/
+
 .httr-oauth
 .DS_Store
 

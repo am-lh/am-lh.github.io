@@ -2,7 +2,7 @@
 title: "Amélie Lehuen"
 about:
   template: trestles
-  image: ./Pictures/profile.jpg
+  image: images/profile.jpg
   image-shape: round
   # links:
   #   - icon: linkedin
@@ -20,7 +20,6 @@ about:
 Methodical and rigorous with analytical and decisional abilities, reliable and self-driven, seek and find team agreement thanks to leadership. Chemical project manager during 14 years, dedicated now to the natural heritage protection.
 
 ::: panel-tabset
-
 ## Experience
 
 **2020 (ONGOING)** -- PHD -- UMR BOREA -- Caen
@@ -43,36 +42,30 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 **2004** **\|** Engineer degree -- Rouen National Institute of Applied Sciences (INSA) Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
 
-## Complete Resume
+<!-- ## Complete Resume -->
 
-[Download PDF](Manuscripts/calendrier-2022-semestriel-vierge.pdf)
+<!-- [Download PDF](Manuscripts/calendrier-2022-semestriel-vierge.pdf) -->
 
 ## Travel
+
 This is just a quick template integrate a map...
 
 ```{r, message= FALSE, warning= FALSE, echo= FALSE}
-#load needed libraries
 library(tidyverse)
-library(here)
-library(sf)
 library(leaflet)
-library(readxl)
+library(maps)
 
-#read in cities
-cities <- read_excel(here("data", "travel_cities.xlsx"))
-
-#add geometries to cities
-cities <- cities %>% 
-  st_as_sf(coords = c("lon",
-                      "lat"),
-            crs = 4326)
+data(world.cities)
+cities<-world.cities %>% 
+  filter(country.etc=="France" & name %in% 
+           c("Caen")
+         # add here if other countries
+  )
 
 cities %>% 
   leaflet() %>% 
-  addProviderTiles(providers$Esri.WorldPhysical) %>% 
-  addProviderTiles(providers$Stamen.TonerLabels) %>% 
-  addMarkers(label = cities$city)
-
+  addTiles() %>% 
+  addMarkers(label = cities$name)
 
 ```
 :::
