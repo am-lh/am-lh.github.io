@@ -1,0 +1,32 @@
+---
+title: "Cockle bioturbation erosion model"
+description: ""
+author:
+  - name: Amélie Lehuen
+date: last-modified
+image: illustration.png
+categories: [Melting Potes] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+resources:
+  - "Cockle Erosion Supp data.html"
+about:
+  template: solana
+  image: illustration.png
+  image-shape: round
+---
+
+# A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis to build a generic model taking into account the diversity of fauna activity and sediment habitats.
+
+Lehuen Amélie^\a*^, Orvain Francis^\a^
+
+^\a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d'Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
+
+-   Corresponding author : amelie.lehuen\@unicaen.fr
+
+[Supplementary data](SDM Suppl Data.html)
+
+Modelling the dynamics of an estuary and the evolution of its morphology requires a process-based description not only of the physical processes, but also of the influence of benthic fauna on sediment characteristics at ecosystem scale. A meta-analysis was tested as an approach for modelling the effect of bioturbation exerted by the cockle Cerastoderma edule on sediment erobility. Six different erosion flume datasets were collected to ensure a broad range of experimental conditions including bed shear stress, population characteristics, and sediment composition. First, a model was built to describe the biogenic fluff layer created by C. edule activity in relation to (i) bioturbation activity using the population metabolic rate [mW.m-2] as a proxy for faunal metabolic energy, and (ii) the silt content [%] of the sediment. Second, different erosion models were compared by testing parameterization steps incorporating both erosion of the fluff layer and/or mass erosion of the sediment bed. Structural differences in the flumes and in the preparation of samples in the six different datasets makes it difficult to propose a single model that satisfactorily simulates all the data and encompasses both types of subsequent erosion, that of the fluff layer and that of the underlying consolidated bed. However a generic model is proposed for the surficial fluff layer erosion covering a moderate bed range of bed shear stress (<1 Pa). This study shows that including several datasets covering a wide range of environmental conditions is a key to the robustness of this model, and that new insights can be gained by integrating the complexity of sediment features. We expect that this two-part model can be used in broad contexts in terms of cockle populations, estuarine habitats, and climatic conditions and can combined with various hydro-morpho-sedimentary models that include these biological effects.
+
+# Keywords
+
+Cerastoderma edule, erosion, bioturbation, metabolic rate

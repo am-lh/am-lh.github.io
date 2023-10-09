@@ -1,71 +1,277 @@
 ---
-title: "Amélie Lehuen"
-about:
-  template: trestles
-  image: images/profile.jpg
-  image-shape: round
-  # links:
-  #   - icon: linkedin
-  #     href: https://www.linkedin.com/in/amélie-lehuen-5262bb143/
-  #   - icon: github
-  #     href: https://github.com/am-lh
-  #   - icon: twitter
-  #     href: https://twitter.com/PennyOakLh
-  #   - text: ResearchGate
-  #     href: https://www.researchgate.net/profile/Amelie-Lehuen
-  #   - text: Orcid
-  #     href: https://orcid.org/my-orcid?orcid=0000-0002-3150-687
+title: "Resume"
+resources:
+  - "Amelie_Lehuen_CV_23_1_UK.pdf"
 ---
 
-Methodical and rigorous with analytical and decisional abilities, reliable and self-driven, seek and find team agreement thanks to leadership. Chemical project manager during 14 years, dedicated now to the natural heritage protection.
+[Download Resume](Amelie_Lehuen_CV_23_1_UK.pdf)
 
 ::: panel-tabset
-## Experience
+# Skills
 
-**2020 (ONGOING)** -- PHD -- UMR BOREA -- Caen
+::: {layout="[[40,30,30]]"}
+<div>
 
-Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary. Supervisor : Francis Orvain
+**IT**
 
-**2020 (9 MONTHS)** -- RESEARCH ENGINEER -- INTERNSHIP AND FIXED-TERM CONTRACT -- UFR BOREA -- Caen
+-   ![](Pictures/logos/r.png){width="52"} ![](Pictures/logos/rstudio_logo.png){width="40"} ![](Pictures/logos/quarto2.jpg){width="40"} ![](Pictures/logos/matlab.png){width="44" height="40"}
+
+-   ![](Pictures/logos/Qgis-icon-3.0.png){width="42"} ![](Pictures/logos/ArcGIS_logo.png){width="40"}
+
+-   Relational databases (Access, SQL)
+
+</div>
+
+<div>
+
+**Languages**
+
+![](Pictures/picto/france.png){width="50"} ![](Pictures/picto/uk.png){width="40"} ![](Pictures/picto/spain.png){width="30"}
+
+</div>
+
+<div>
+
+**Organization - management**
+
+-   Full project management
+
+-   Schedule building and monitoring
+
+-   Budget definition and control
+
+-   Leading a multidisciplinary team
+
+</div>
+:::
+
+# Education
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"} ![](Pictures/logos/Logo_NU.png){width="80"} ![](Pictures/logos/logo_r.normandie-portrait-cmjn_0.jpg){width="53"}
+
+</div>
+
+<div>
+
+**2020** (ongoing) - **PhD** - ED497 nBISE - Laboratory of biology of organisms and aquatic ecosystems (BOREA) MNHN, CNRS 8067, SU, IRD 207, UCN, UA, Caen
+
+Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES). Director: Francis Orvain
+
+-   Optimal Ecological Niche models (SDM-NEO) based on quantile regression and the MARS3D hydro-morpho-sedimentary model developed by IFREMER.
+
+-   Sediment erosion modelling including benthic fauna bioturbation, monospecific and multispecific, based on species metabolic rate.
+
+![](Pictures/logos/ofb_logohoriz_rvb-2-5169b.png){width="103"} ![](Pictures/logos/logo-MIE.png){width="82"} ![](Pictures/logos/NIOZ.png){width="33"} ![](Pictures/logos/Logo-Ifremer.jpg){width="55"} ![](Pictures/logos/CSLN.png){width="95"} ![](Pictures/logos/Italian_national_research_council.png){width="50"}
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
+
+</div>
+
+<div>
+
+**2019-2020** - **MSc** Ocean Sciences, Coastal Living Resources Exploitation -- Caen University
+
+-   Coastal ecosystems and food webs, Coastal areas: Knowledge and sustainable management
+
+-   Physiology of marine organisms, Exploitation of fish, shellfish, and algal species
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/IUT-CAEN.png){width="54" height="50"}
+
+</div>
+
+<div>
+
+**2018-19** - **BSc** Professions of environmental protection & management Ecological restoration & sustainable development - Caen University of Technology
+
+-   Natural habitats rehabilitation: Marine ecosystems management, Impact study, Ecological restoration, GIS; Habitats analysis; Sustainable Development and Environmental Management.
+
+-   Tutored project: Primary production analysis of microphytobenthos on the Orne estuary foreshore and spectral data acquired by GIS.
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/INSA.png){width="50"}
+
+</div>
+
+<div>
+
+**2004** - **Engineer degree** -- Rouen National Institute of Applied Sciences (INSA)
+
+-   Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
+
+</div>
+:::
+
+# Experience
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/GEMEL-Normandie_logo_s.png){width="47" height="50"}
+
+</div>
+
+<div>
+
+**2021** (ongoing) Association Treasurer
+
+-   **Finances**: Cash flow monitoring, budget forecasts, annual balance sheet. Implementation of cost accounting. Discussions with chartered accountant and statutory auditor.
+
+-   **Social management**: 3 permanent employees (contract reviews, individual interviews), recruitment of temporary contracts.
+
+-   **Association**: Set up of a Local Aid Scheme (DLA), development of organizational tools and practices to monitor projects, workload, costs, and volunteer activities.
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/IUT-CAEN.png){width="54" height="50"}
+
+</div>
+
+<div>
+
+**2020-2022 (46h)** - Contractual teaching IUT Grand Ouest Normandie Caen campus 2
+
+2021-22 - L3: Tutored project
+
+2020-21 - L2: Applied computer data analysis, Environmental analysis; L3: Marine ecosystem management & marine biology, Tutored project
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
+
+</div>
+
+<div>
+
+**2020 (9 months)** -- Research engineer -- internship and fixed-term contract -- Laboratory of biology of aquatic organisms and ecosystems (BOREA) MNHN, CNRS 8067, SU, IRD 207, UCN, UA, Caen
 
 Prediction of the distribution of macrozoobenthic species in the Seine estuary in response to hydro-morpho-sedimentary changes: first applications on the population of cockles, Cerastoderma edule. Definition of optimal ecological niches by quantile regression.
 
-**2019 (6 MONTHS)** -- BENTHIC TECHNICIAN -- INTERNSHIP -- GEMEL-Normandie -- Luc sur Mer
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/GEMEL-Normandie_logo_s.png){width="47" height="50"}
+
+</div>
+
+<div>
+
+**2019 (6 months)** -- Benthic technician -- internship -- GEMEL-Normandie -- Luc sur Mer
 
 Evaluation of a stock of bivalves and associated fauna following a scientific reserve creation on the west coast of Cotentin.
 
-## Education
+</div>
+:::
 
-**2019-20** **\|** MSc Ocean Sciences, Coastal Living Resources Exploitation -- Caen University
+# Communications
 
-**2018-19** **\|** BSc Professions of environmental protection & management Ecological restoration & sustainable development - Caen University of Technology
+![](Pictures/picto/newspaper-regular.png){width="20"} **Publications**
 
-**2004** **\|** Engineer degree -- Rouen National Institute of Applied Sciences (INSA) Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
+-   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (Cerastoderma edule). Unpub. 2023.
 
-<!-- ## Complete Resume -->
+-   Lehuen, A. et Orvain, F., 2023. A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis. Unpub. 2023.
 
-<!-- [Download PDF](Manuscripts/calendrier-2022-semestriel-vierge.pdf) -->
+-   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews.
 
-## Travel
+![](Pictures/picto/chalkboard-user-solid.png){width="25"} **Presentations**
 
-This is just a quick template integrate a map...
+![](Pictures/picto/person-chalkboard-solid.png){width="25"} **Posters**
 
-```{r, message= FALSE, warning= FALSE, echo= FALSE}
-library(tidyverse)
-library(leaflet)
-library(maps)
+*August 2022 - [Nereis park](http://nereispark.org/) -- Logonna-Daoulas, France*
 
-data(world.cities)
-cities<-world.cities %>% 
-  filter(country.etc=="France" & name %in% 
-           c("Caen")
-         # add here if other countries
-  )
+-   Lehuen, A., Dancie, C., Grasso, F., et al., 2022. A modelling approach for predicting species distribution in Seine estuary by applying an Optimal Ecological Niche model: First application to Cerastoderma edule population.
 
-cities %>% 
-  leaflet() %>% 
-  addTiles() %>% 
-  addMarkers(label = cities$name)
+-   Lehuen, A. et Orvain, F., 2022. Bioturbation model of Cerastoderma edule based on metabolic activity and sediment composition: a meta-analysis.
 
-```
+-   Lehuen, A. et Orvain, F., 2022. MELTING POTES Marine Ecosystem Engineers Long-Term Evolution: A ModelING study of benthic faunal activity and distribution in resPOnse to climate change and sediment Transport in Seine Estuary.
+
+*September 2022 -* [ECSA](https://www.estuarinecoastalconference.com/) *59 -- San Sebastian, Spain*
+
+-   Lehuen, A., Dancie, C., Grasso, F., et al., 2022. A modelling approach for predicting species distribution in Seine estuary by applying an Optimal Ecological Niche model: First application to Cerastoderma edule population.
+
+![](Pictures/picto/users-line-solid.png){width="25"} **Expertise**
+
+Mai 2023 (4 days) - NEO workshop -- ILICO - Caen
+
+-   Study of "Optimal Ecological Niche" species distribution models and inter-SNO (Systèmes National d'Observation) taxonomic and functional distribution: Coupling of hydro-biological data (low-frequency SOMLIT and high-frequency COASTHF) with planktonic (PHYTOBS) and benthic (BENTHOS) species distribution data in coastal ecosystems of mainland France. 15 attendees.
+
+# Previous experience
+
+**2018 (8 months)** -- QHSE engineer -- GB Ouest -- Revima-APU Project -- Caudebec en Caux
+
+-   Creation of chemicals database, collective and individual protections rationalization, study of REACH exposure scenarios.
+
+**2011-2017 (6 years)** -- Utilities Project Manager -- GB Ouest --Chevron Oronite Project -- Le Havre
+
+-   3 years global improvement plan management, 15 projects in parallel, 1,5M€ budget per year, development and sharing of project management tools.
+
+**2010-2011 (6 months)** -- Process Improvement engineer -- Lubrizol -- Rouen
+
+-   Management of projects oriented Hygiene Security Environment.
+
+**2010 (8 months)** -- Environment engineer -- Petroplus -- Petit Couronne Refinery
+
+-   Monitoring and improvement of flow and performance of the refinery Waste Water Treatment Plant. Communication of indicators.
+
+**2007-2009 (1,5 year)** -- Process Control engineer -- Lubrizol -- Rouen
+
+-   Development of statistical process analysis tools on Statgraphics, alarm dashboard.
+
+**2007 (5 months)** -- R&D Process engineer -- Cristal-Millennium Inorganic Chemicals -- Le Havre
+
+-   Stabilization and optimization of the white gypsum unit, industrial tests, US communication.
+
+**2004-2005 (2 years)** -- Process Improvement engineer -- Lubrizol -- Rouen
+
+-   Continuous improvement projects. Production support and project management. Analysis of nonconformities.
+
+# Interests
+
+**Permaculture**
+
+-   2019: Permaculture Design Course -- CDFP l'Escargotier, Le Havre
+
+**Music**
+
+-   2017 & 19: Jazz singing masterclass -- Jazzitudes, Lisieux
+
+-   8 years of musical practice in band as singer and guitarist
+
+-   2012-17: Monthly open mike: Lavomatic Tour
+
+**Dance**
+
+-   2004-12: Mandingue and Sabar weekly practice -- Kaï Danse, Rouen
+
+-   2012-14: Contemporary dance shows -- Le Phare, Le Havre
 :::

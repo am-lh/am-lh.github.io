@@ -23,8 +23,6 @@ website:
         text: Melting Pot
       - href: Side_projects.qmd
         text: Side Projects
-      - href: images/calendrier-2022-semestriel-vierge.pdf
-        text: test_pdf
   page-footer: 
     # background: light
     left: 

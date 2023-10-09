@@ -1,0 +1,29 @@
+---
+title: "NEO Workshop"
+description: ""
+author:
+  - name: Amélie Lehuen
+date: last-modified
+image: illustration.jpg
+categories: [NEO] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+
+about:
+  template: solana
+  image: illustration.jpg
+  image-shape: round
+---
+
+::: panel-tabset
+# Description
+
+Study of "Optimal Ecological Niche" species distribution models and inter-SNO (Systèmes National d'Observation) taxonomic and functional distribution: Coupling of hydro-biological data (low-frequency SOMLIT and high-frequency COASTHF) with planktonic (PHYTOBS) and benthic (BENTHOS) species distribution data in coastal ecosystems of mainland France.
+
+# Info
+Mai 2023 (4 days) - Caen
+Workshop for 15 people.
+
+# Press
+[Caen University communication (FR)](https://www.unicaen.fr/les-specialistes-des-observatoires-marins-cotiers-ont-rendez-vous-a-caen/)
+
+:::

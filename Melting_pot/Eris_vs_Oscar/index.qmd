@@ -3,7 +3,7 @@ title: "Erosion measurement comparison flumes"
 description: "sample project"
 author:
   - name: Amélie Lehuen
-date: 10-24-2022
+date: last-modified
 categories: [PhD, R, Data Analysis] # self-defined categories
 citation: 
   url: https://am-lh.github.io/ 
