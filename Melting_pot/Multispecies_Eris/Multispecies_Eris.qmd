@@ -8,7 +8,7 @@ image: illustration.png
 categories: [Melting Potes] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 resources:
-  - "Multispecies_Eris_Suppl_Data.docx"
+  - "Multispecies_Eris_Suppl_Data.pdf"
   - "Multispecies_Eris_Suppl_Data.html"
 
 about:
@@ -21,7 +21,7 @@ about:
 
 * Corresponding author : amelie.lehuen@unicaen.fr
 
-[Supplementary data](Multispecies_Eris_Suppl_Data.docx)
+[Supplementary data](Multispecies_Eris_Suppl_Data.pdf)
 [Supplementary data Complete](Multispecies_Eris_Suppl_Data.html)
 
 
