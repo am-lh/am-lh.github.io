@@ -17,7 +17,7 @@ about:
 
 ^a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d'Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
 
-^*^ Corresponding author : amelie.lehuen\@unicaen.fr
+* Corresponding author : amelie.lehuen\@unicaen.fr
 
 [Supplementary data](Cockle_Erosion_Supp_data.html)
 

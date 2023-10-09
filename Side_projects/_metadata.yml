@@ -1,10 +1,1 @@
-# Options specified here apply to all qmds in the posts folder
-
-
-
-# prevents posts from re-rendering unless explicitly told to do so (for more, see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
-
-
-# enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
-title-block-banner: true
+date: last-modified

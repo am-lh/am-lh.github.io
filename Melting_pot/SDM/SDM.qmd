@@ -22,7 +22,7 @@ about:
 
 ^c^ Ifremer, DYNECO/DHYSED, F-29280 Plouzané, France.
 
-^*^ Corresponding author : amelie.lehuen@unicaen.fr
+* Corresponding author : amelie.lehuen@unicaen.fr
 
 [Supplementary data](SDM_Suppl_Data.html)
 

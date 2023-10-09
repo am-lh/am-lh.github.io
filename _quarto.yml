@@ -65,7 +65,7 @@ format:
     code-fold: true
     # mainfont: Nunito
     # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
-    title-block-banner: images/photo-vasière.jpg
+    # title-block-banner: images/photo-vasière.jpg
 
   # docx: 
   #   reference-doc: Manuscripts/customreference_nonb.docx

@@ -1,0 +1,33 @@
+---
+title: "Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility"
+description: "Lehuen Amélie^a^*, Oulhen Rose-Marie, Zhou Zhengquan, de Smit Jaco, Cozzoli Francesco, Bouma Tjeerd, Orvain Francis^a^"
+author:
+  - name: Amélie Lehuen
+date: last-modified
+image: illustration.png
+categories: [Melting Potes] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+resources:
+  - "Multispecies_Eris_Suppl_Data.docx"
+  - "Multispecies_Eris_Suppl_Data.html"
+
+about:
+  template: solana
+  image: illustration.png
+  image-shape: round
+---
+
+^a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d’Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
+
+* Corresponding author : amelie.lehuen@unicaen.fr
+
+[Supplementary data](Multispecies_Eris_Suppl_Data.docx)
+[Supplementary data Complete](Multispecies_Eris_Suppl_Data.html)
+
+
+In order to assess the metabolic rate (as calculated in Brey, 2010) as descriptor to model the influence of macrofauna on sediment erodibility in intertidal areas, this study proposes a first step toward an understanding of bioturbation mechanism at the community level, by integrating the seasonal variability of individual activity. A flume experiment was performed in laboratory to measure two bioturbation parameters: i) the fluff layer quantity created by fauna and easily eroded (at low bed shear stress) and ii) the critical threshold of bed shear stress when mass erosion occurs. The design was focused on two main factors: i) a multispecies composition of the biological sample, with two species together (*Cerastoderma edule* and *Macoma balthica*; *Scrobicularia plana* and *Hediste diversicolor*; *Corophium volutator* and *Peringia ulvae*) at 4 different relative densities ii) three levels of temperatures (representative of winter, spring and summer conditions). Pair-wise species assemblages were chosen on the basis of the shared habitat frequently observed in the field. A 3-fold treatment were made with the same individuals: a measurement of oxygen consumption from the biological sample, followed by a bioturbation phase and an erosion measurement in flume. The measure of oxygen consumption confirmed that theoretical metabolic rate was a good way to evaluate the respiration of fauna, independently of the species. The erosion results showed a high variability, but still indicated that the metabolic rate was an interesting descriptor to evaluate bioturbation effect and the related mediation of sediment erodibility, to integrate the effect of the 2 cohabiting species. The fluff layer was positively linked to the metabolic rate, with all duos together, whereas the relationship between critical mass erosion and metabolic rate was negative, showing a global destabilization mediated by the faunal bioturbation. However, there were significant differences of impact depending on the species considered.
+
+* Keywords
+
+Bioturbation, respirometry, erosion, erodibility, metabolic rate, intertidal, mudflat, estuaries, benthos
+
