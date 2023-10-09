@@ -1,6 +1,6 @@
 ---
-title: "SDM"
-description: ""
+title: "A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*)"
+description: "Lehuen Amélie^a*^, Dancie Chloé^b^, Grasso Florent^c^, Orvain Francis^a^"
 author:
   - name: Amélie Lehuen
 date: last-modified
@@ -16,17 +16,13 @@ about:
   image-shape: round
 ---
 
-# A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*)
-
-Lehuen Amélie^\a*^, Dancie Chloé^\b^, Grasso Florent^\c^, Orvain Francis^\a^
-
 ^\a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d’Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
 
 ^\b^ CSLN, Cellule de Suivi du Littoral Normand (CSLN), 53 rue de Prony, 76600 Le Havre, France
 
 ^\c^ Ifremer, DYNECO/DHYSED, F-29280 Plouzané, France.
 
-* Corresponding author : amelie.lehuen@unicaen.fr
+^\*^ Corresponding author : amelie.lehuen@unicaen.fr
 
 [Supplementary data](SDM Suppl Data.html)
 
