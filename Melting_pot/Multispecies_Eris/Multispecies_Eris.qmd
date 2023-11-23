@@ -1,6 +1,6 @@
 ---
 title: "Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility"
-description: "Lehuen Amélie^a^*, Oulhen Rose-Marie, Zhou Zhengquan, de Smit Jaco, Cozzoli Francesco, Bouma Tjeerd, Orvain Francis^a^"
+description: "Lehuen Amélie^a^*, Oulhen Rose-Marie, Zhou Zhengquan, de Smit Jaco, van Ijzerloo Lennart, Cozzoli Francesco, Bouma Tjeerd, Orvain Francis^a^"
 author:
   - name: Amélie Lehuen
 date: last-modified

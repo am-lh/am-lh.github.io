@@ -1,10 +1,11 @@
 ---
 title: "Resume"
 resources:
-  - "Amelie_Lehuen_CV_23_1_UK.pdf"
+  - "Amelie_Lehuen_CV_23_2.pdf"
+  - "Amelie_Lehuen_CV_23_2_UK.pdf"
 ---
 
-[Download Resume](Amelie_Lehuen_CV_23_1_UK.pdf)
+[Download Resume](Amelie_Lehuen_CV_23_2_UK.pdf) - [Télécharger CV](Amelie_Lehuen_CV_23_2.pdf)
 
 ::: panel-tabset
 # Skills
@@ -197,11 +198,13 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 ![](Pictures/picto/newspaper-regular.png){width="20"} **Publications**
 
--   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (Cerastoderma edule). Unpub. 2023.
+-   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*). Unpub. 2023.
 
 -   Lehuen, A. et Orvain, F., 2023. A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis. Unpub. 2023.
 
--   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews.
+-   Lehuen Amélie, Oulhen Rose-Marie, Zhou Zhengquan, de Smit Jaco, van Ijzerloo Lennart, Cozzoli Francesco, Bouma Tjeerd, Orvain Francis, 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. Unpub. 2023.
+
+<!-- -   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews. -->
 
 ![](Pictures/picto/chalkboard-user-solid.png){width="25"} **Presentations**
 

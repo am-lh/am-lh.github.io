@@ -6,7 +6,7 @@ project:
     - "*.qmd"
     # - "!Results/"
     
-date: last-modified
+# date: last-modified
     
 # Website configuration
 website:
@@ -42,11 +42,11 @@ website:
         href: https://orcid.org/my-orcid?orcid=0000-0002-3150-687
         
 # general format parameters
-toc: true # table of content at beginning of document
-toc-location: left
-toc-depth: 3
-toc_float: TRUE
-number-sections: true
+toc: false # table of content at beginning of document
+# toc-location: left
+# toc-depth: 3
+# toc_float: TRUE
+# number-sections: true
 highlight-style: pygments
 bibliography: references.bib
         
