@@ -57,7 +57,7 @@ resources:
 
 <div>
 
-**2020** (ongoing) - **PhD** - ED497 nBISE - Laboratory of biology of organisms and aquatic ecosystems (BOREA) MNHN, CNRS 8067, SU, IRD 207, UCN, UA, Caen
+**2020-2023** - **PhD** - ED497 nBISE - Laboratory of biology of organisms and aquatic ecosystems (BOREA) MNHN, CNRS 8067, SU, IRD 207, UCN, UA, Caen
 
 Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES). Director: Francis Orvain
 
@@ -117,7 +117,7 @@ Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate c
 
 **2004** - **Engineer degree** -- Rouen National Institute of Applied Sciences (INSA)
 
--   Fine Chemistry and Engineering Department -- specialism in Materials and Polymers
+-   Fine Chemistry and Engineering Department -- specialisation in Materials and Polymers
 
 </div>
 :::
@@ -202,11 +202,11 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 -   Lehuen, A. et Orvain, F., 2023. A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis. Unpub. 2023.
 
--   Lehuen Amélie, Oulhen Rose-Marie, Zhou Zhengquan, de Smit Jaco, van Ijzerloo Lennart, Cozzoli Francesco, Bouma Tjeerd, Orvain Francis, 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. Unpub. 2023.
+-   Lehuen A., Oulhen R.-M., Zhou Z., de Smit J., van Ijzerloo L., Cozzoli F., Bouma T., Orvain F., 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. Unpub. 2023.
 
 <!-- -   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews. -->
 
-![](Pictures/picto/chalkboard-user-solid.png){width="25"} **Presentations**
+<!-- ![](Pictures/picto/chalkboard-user-solid.png){width="25"} **Presentations** -->
 
 ![](Pictures/picto/person-chalkboard-solid.png){width="25"} **Posters**
 

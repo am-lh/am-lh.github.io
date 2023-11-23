@@ -8,6 +8,8 @@ about:
 ---
 
 :::{#hero-heading}
+# Doctor in estuarine ecosystems {.unnumbered .unlisted}
+# MELTING POTES {.unnumbered .unlisted}
 # Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine EStuary {.unnumbered .unlisted}
 :::
 

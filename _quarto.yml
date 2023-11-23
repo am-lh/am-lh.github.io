@@ -26,7 +26,7 @@ website:
   page-footer: 
     # background: light
     left: 
-      - "Copyright 2023, Amélie Lehuen"
+      - text: Copyright 2023, Amélie Lehuen
       - text: CC BY-SA 4.0
         href: https://creativecommons.org/licenses/by-sa/4.0/
     right: 
