@@ -1,6 +1,6 @@
 ---
 title: "A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis."
-description: "Lehuen Amélie^a^*, Orvain Francis^a^"
+description: "Amélie Lehuen^a^*, Francis Orvain^a^"
 author:
   - name: Amélie Lehuen
 date: last-modified

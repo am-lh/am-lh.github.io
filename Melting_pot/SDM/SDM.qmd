@@ -1,6 +1,6 @@
 ---
 title: "A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*)"
-description: "Lehuen Amélie^a^*, Dancie Chloé^b^, Grasso Florent^c^, Orvain Francis^a^"
+description: "Amélie Lehuen^a^*, Chloé Dancie^b^, Florent Grasso^c^, Francis Orvain^a^"
 author:
   - name: Amélie Lehuen
 date: last-modified
