@@ -9,7 +9,7 @@ categories: [Melting Potes] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 resources:
   - "Multispecies_ERIS paper postprint.pdf"
-  - "Multispecies_ERIS_Suppl_Data.html"
+  # - "Multispecies_ERIS_Suppl_Data.html"
 
 about:
   template: solana
@@ -23,7 +23,8 @@ about:
 
 Published in Journal of Sea research, DOI: [10.1016/j.seares.2024.102525](https://doi.org/10.1016/j.seares.2024.102525)
 
-[Article AAM version](Multispecies_ERIS paper postprint.pdf) [Supplementary data](Multispecies_ERIS_Suppl_Data.html)
+[Article AAM version](Multispecies_ERIS paper postprint.pdf)
+<!-- [Supplementary data](Multispecies_ERIS_Suppl_Data.html) -->
 
 Bioturbation in estuarine environments describes all sediment reworking processes implied in sediment transport. However, modelling at large spatial and temporal scales remains a challenge because of the need to consider the fauna at the community level, and because animal behaviour is highly seasonal with non-linear effects of macrofauna functional trait interactions. Bioturbation processes can be linked to the activity of organisms, based on the principle of energy ecology, linking the metabolic rate to the erodibility of a sediment colonised by benthic fauna. This study investigates this postulate by evaluating the erodibility parameters of a sediment subjected to: i) the bioturbation under seasonal temperature variations; ii) the synergistic bioturbation of different species. The experimental design consisted of: i) three temperature levels (winter, spring and summer), ii) three types of species duos (*Cerastoderma edule* and *Macoma balthica*; *Scrobicularia plana* and *Hediste diversicolor*; *Corophium volutator* and *Peringia ulvae*) at 4 different relative densities. Two successive experiments were carried out on the same individuals: measurement of oxygen consumption of fauna then measurement of the erodibility of the colonised sediment in a flume. The oxygen consumption confirmed that the metabolic rate is a good model of the fauna respiration, regardless of species. The erosion results indicated that the metabolic rate in the case of the fluff layer resuspension is an interesting descriptor for 1) the assessment of the bioturbation under variable temperatures and 2) the integration of the two different bioturbator species that could co-occur in the same habitat. In contrast, the effect of bioturbation on the mass sediment erosion threshold cannot be easily modelled by using the metabolic rate and the classification in functional groups is required. Bioturbation models of the fluff layer using metabolic rate is a promising tool for modelling the effects of faunal communities on sediment transport at the scale of an estuary and over the long term, even projected in the context of global warming.
 
