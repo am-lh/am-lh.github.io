@@ -1,8 +1,8 @@
 ---
 title: "Resume"
 resources:
-  - "Amelie_Lehuen_CV_23_2.pdf"
-  - "Amelie_Lehuen_CV_23_2_UK.pdf"
+  - "Amelie_Lehuen_CV_24_2.pdf"
+  - "Amelie_Lehuen_CV_24_2_UK.pdf"
 ---
 
 [Download Resume](Amelie_Lehuen_CV_24_2_UK.pdf) - [Télécharger CV](Amelie_Lehuen_CV_24_2.pdf)
@@ -127,22 +127,52 @@ Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate c
 ::: {layout="[[10,90]]"}
 <div>
 
-![](Pictures/logos/GEMEL-Normandie_logo_s.png){width="47" height="50"}
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
 
 </div>
 
 <div>
 
-**2021** (ongoing) Association Treasurer
+**2024-25 (15months)** - Post-Doc – fixed-term contract – Caen University
 
--   **Finances**: Cash flow monitoring, budget forecasts, annual balance sheet. Implementation of cost accounting. Discussions with chartered accountant and statutory auditor.
-
--   **Social management**: 3 permanent employees (contract reviews, individual interviews), recruitment of temporary contracts.
-
--   **Association**: Set up of a Local Aid Scheme (DLA), development of organizational tools and practices to monitor projects, workload, costs, and volunteer activities.
+EValuation of the ecological functioning of lateral mudflats upstream of Tancarville to guide new ecological restoration projects through a comparative approach to the functional biodiversity of benthic communities (EVEREST).
 
 </div>
 :::
+
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
+
+</div>
+
+<div>
+
+**2023-24 (3months)** - Researcher Engineer – fixed-term contract – Caen University
+
+Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
+
+</div>
+
+<div>
+
+**2020-23 (3 years)** - PhD Researcher – Caen University
+
+Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
+
+</div>
+:::
+
 
 ::: {layout="[[10,90]]"}
 <div>
@@ -198,11 +228,11 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 ![](Pictures/picto/newspaper-regular.png){width="20"} **Publications**
 
--   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*). Unpub. 2023.
+-   Lehuen, A. and Orvain, F. (2024) A cockle-induced bioturbation model and its impact on sediment erodibility: A meta-analysis, Science of The Total Environment, 912, p. 168936. [https://doi.org/10.1016/j.scitotenv.2023.168936](https://doi.org/10.1016/j.scitotenv.2023.168936.
 
--   Lehuen, A. et Orvain, F., 2023. A cockle-induced bioturbation model and its impact on sediment erodibility: a meta-analysis. Unpub. 2023.
+-   Lehuen A., Oulhen R.M., Zhou Z., de Smit J., Cozzoli F., Bouma T., Orvain Francis, 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. [https://doi.org/10.1016/j.seares.2024.102525](https://doi.org/10.1016/j.seares.2024.102525.
 
--   Lehuen A., Oulhen R.-M., Zhou Z., de Smit J., van Ijzerloo L., Cozzoli F., Bouma T., Orvain F., 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. Unpub. 2023.
+-   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*). [https://normandie-univ.hal.science/hal-04438267](https://normandie-univ.hal.science/hal-04438267. 
 
 <!-- -   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews. -->
 
@@ -227,6 +257,64 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 Mai 2023 (4 days) - NEO workshop -- ILICO - Caen
 
 -   Study of "Optimal Ecological Niche" species distribution models and inter-SNO (Systèmes National d'Observation) taxonomic and functional distribution: Coupling of hydro-biological data (low-frequency SOMLIT and high-frequency COASTHF) with planktonic (PHYTOBS) and benthic (BENTHOS) species distribution data in coastal ecosystems of mainland France. 15 attendees.
+
+
+# Responsibilities
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/dreal-normandie.png){height="60"}
+
+</div>
+
+<div>
+
+
+**2024 (ongoing)** Member of Conseil Scientifique de l’Estuaire de la Seine (CSES) – DREAL Normandie
+The Council issues opinions on development programmes, works or management measures likely to have an impact on the functioning of estuarine ecosystems.
+
+</div>
+:::
+
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/cyber-coast.jpg){height="60"}
+
+</div>
+
+<div>
+
+**2023 (ongoing)** Member of CYBER-COAST group – Future Earth Coasts (FEC)
+International working group on the resilience of ecosystems in the face of global change, from the perspective of cybernetics and eco-energetics.
+
+</div>
+:::
+
+::: {layout="[[10,90]]"}
+<div>
+
+![](Pictures/logos/GEMEL-Normandie_logo_s.png){width="47" height="50"}
+
+</div>
+
+<div>
+
+**2021 (ongoing)** Association Treasurer
+
+-   **Finances**: Cash flow monitoring, budget forecasts, annual balance sheet. Implementation of cost accounting. Discussions with chartered accountant and statutory auditor.
+
+-   **Social management**: 3 permanent employees (contract reviews, individual interviews), recruitment of temporary contracts.
+
+-   **Association**: Set up of a Local Aid Scheme (DLA), development of organizational tools and practices to monitor projects, workload, costs, and volunteer activities.
+
+</div>
+:::
+
+
+
 
 # Previous experience
 

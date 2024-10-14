@@ -4,16 +4,16 @@ description: "Amélie Lehuen^a^*, Chloé Dancie^b^, Florent Grasso^c^, Francis O
 author:
   - name: Amélie Lehuen
 date: last-modified
-image: illustration.png
-categories: [Melting Potes] # self-defined categories
+image: /Pictures/Melting_Potes_Schema.png
+categories: [Melting Potes, PhD] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 resources:
   - "SDM_Suppl_Data.html"
 
 about:
   template: solana
-  image: illustration.png
-  image-shape: round
+  image: SDM Graphical abstract.png
+  # image-shape: round
 ---
 
 ^a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d’Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.

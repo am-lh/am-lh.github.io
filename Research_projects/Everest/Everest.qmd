@@ -4,20 +4,22 @@ description: ""
 author:
   - name: Amélie Lehuen
 date: last-modified
-image: image_everest.jpg
+image: /Pictures/logos/gipseineaval_logo.png
 categories: [Everest] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 
 about:
   template: solana
   image: image_everest.jpg
-  image-shape: round
+  # image-shape: round
 ---
 
 
 # Description
 
 Work in progress...
+
+![](/Pictures/picto/travaux.png)
 
 [Project details](https://www.seine-aval.fr/projet/everest/)
 

@@ -1,11 +1,11 @@
 ---
 title: "Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility"
-description: "Amélie Lehuen^a^*, Rose-Marie Oulhen, Zhengquan Zhou, Jaco de Smit, Lennart van Ijzerloo, Francesco Cozzoli, Tjeerd Bouma, Francis Orvain^a^"
+description: "Amélie Lehuen^a^^b^*, Rose-Marie Oulhen, Zhengquan Zhou^c^, Jaco de Smit^c^, Lennart van Ijzerloo^c^, Francesco Cozzoli^d^^e^^f^, Tjeerd Bouma^c^, Francis Orvain^a^^b^"
 author:
   - name: Amélie Lehuen
 date: last-modified
-image: Multispecies_ERIS Graphical abstract.png
-categories: [Melting Potes] # self-defined categories
+image: /Pictures/Melting_Potes_Schema.png
+categories: [Melting Potes, PhD] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 resources:
   - "Multispecies_ERIS paper postprint.pdf"
@@ -14,10 +14,16 @@ resources:
 about:
   template: solana
   image: Multispecies_ERIS Graphical abstract.png
-  image-shape: round
+  # image-shape: round
 ---
 
 ^a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d’Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
+^b^ Normandie Université, Université de Caen Normandie, F-14032 Caen, France
+^c^ Royal Netherlands Institute for Sea Research (NIOZ), PO Box 140, 4400 AC Yerseke, the Netherlands
+^d^ Laboratory of Ecology, Department of Biological and Environmental Sciences and Technologies, University of Salento, Lecce, Italy
+^e^ National Biodiversity Future Center (NBFC), Palermo, Italy
+^f^ Research Institute on Terrestrial Ecosystems (IRET) – National Research Council of Italy (CNR) via Salaria, Monterotondo Scalo (Rome), Italy
+
 
 * Corresponding author : amelie.lehuen@unicaen.fr
 

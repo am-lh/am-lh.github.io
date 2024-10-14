@@ -4,7 +4,7 @@ image: Pictures/Melting_Potes_Schema.png
 about:
   id: hero-heading
   template: solana
-  image-width: 30em
+  # image-width: 30em
 ---
 
 :::{#hero-heading}

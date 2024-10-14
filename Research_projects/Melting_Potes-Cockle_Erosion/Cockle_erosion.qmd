@@ -4,8 +4,8 @@ description: "Amélie Lehuen^a^*, Francis Orvain^a^"
 author:
   - name: Amélie Lehuen
 date: last-modified
-image: Cockle Erosion Graphical Abstract.png
-categories: [Melting Potes] # self-defined categories
+image: /Pictures/Melting_Potes_Schema.png
+categories: [Melting Potes, PhD] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 resources:
   - "Cockle Erosion paper postprint.pdf"
@@ -13,7 +13,7 @@ resources:
 about:
   template: solana
   image: Cockle Erosion Graphical Abstract.png
-  image-shape: round
+  # image-shape: round
 ---
 
 ^a^ Biologie des Organismes et Ecosystèmes Aquatiques (BOREA), UMR8067, Museum National d'Histoire Naturelle (MNHN), Centre National de la Recherche Scientifique (CNRS), Institut de Recherche et Développement (IRD), Sorbonne Université (SU), Université de Caen Normandie (UCN), Université des Antilles (UA), 75231 Paris CEDEX, France.
