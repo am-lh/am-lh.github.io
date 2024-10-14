@@ -5,7 +5,7 @@ resources:
   - "Amelie_Lehuen_CV_23_2_UK.pdf"
 ---
 
-[Download Resume](Amelie_Lehuen_CV_23_2_UK.pdf) - [Télécharger CV](Amelie_Lehuen_CV_23_2.pdf)
+[Download Resume](Amelie_Lehuen_CV_24_2_UK.pdf) - [Télécharger CV](Amelie_Lehuen_CV_24_2.pdf)
 
 ::: panel-tabset
 # Skills

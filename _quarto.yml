@@ -19,8 +19,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: Melting_pot.qmd
-        text: Melting Pot
+      - href: Research_projects.qmd
+        text: Research projects
       - href: Side_projects.qmd
         text: Side Projects
   page-footer: 

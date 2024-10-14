@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://am-lh.github.io/Melting_pot.html</loc>
-    <lastmod>2024-08-12T16:04:32.362Z</lastmod>
+    <loc>https://am-lh.github.io/Research_projects.html</loc>
+    <lastmod>2024-10-14T10:38:16.231Z</lastmod>
   </url>
   <url>
-    <loc>https://am-lh.github.io/Melting_pot/Cockle_Erosion/Cockle_erosion.html</loc>
-    <lastmod>2024-08-12T16:04:36.467Z</lastmod>
+    <loc>https://am-lh.github.io/Research_projects/Everest/Everest.html</loc>
+    <lastmod>2024-10-14T10:38:21.963Z</lastmod>
   </url>
   <url>
-    <loc>https://am-lh.github.io/Melting_pot/Multispecies_Eris/Multispecies_Eris.html</loc>
-    <lastmod>2024-08-12T16:04:54.857Z</lastmod>
+    <loc>https://am-lh.github.io/Research_projects/Melting_Potes-Cockle_Erosion/Cockle_erosion.html</loc>
+    <lastmod>2024-10-14T10:38:26.078Z</lastmod>
   </url>
   <url>
-    <loc>https://am-lh.github.io/Melting_pot/SDM/SDM.html</loc>
-    <lastmod>2024-08-12T16:04:59.221Z</lastmod>
+    <loc>https://am-lh.github.io/Research_projects/Melting_Potes-Multispecies_Eris/Multispecies_Eris.html</loc>
+    <lastmod>2024-10-14T10:38:39.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://am-lh.github.io/Research_projects/Melting_Potes-SDM/SDM.html</loc>
+    <lastmod>2024-10-14T10:38:43.097Z</lastmod>
   </url>
   <url>
     <loc>https://am-lh.github.io/Side_projects.html</loc>
-    <lastmod>2024-08-12T16:05:27.515Z</lastmod>
+    <lastmod>2024-10-14T10:39:01.396Z</lastmod>
   </url>
   <url>
     <loc>https://am-lh.github.io/Side_projects/NEO_workshop/NEO_workshop.html</loc>
-    <lastmod>2024-08-12T16:05:31.869Z</lastmod>
+    <lastmod>2024-10-14T10:39:05.098Z</lastmod>
   </url>
   <url>
     <loc>https://am-lh.github.io/about.html</loc>
-    <lastmod>2024-08-12T16:05:36.821Z</lastmod>
+    <lastmod>2024-10-14T10:39:09.642Z</lastmod>
   </url>
   <url>
     <loc>https://am-lh.github.io/index.html</loc>
-    <lastmod>2024-08-12T16:05:42.599Z</lastmod>
+    <lastmod>2024-10-14T10:39:13.395Z</lastmod>
   </url>
 </urlset>
