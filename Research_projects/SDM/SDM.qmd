@@ -1,0 +1,41 @@
+---
+title: "A novel quantile regression approach to define optimal ecological niche: a case study on habitat suitability of cockle populations (*Cerastoderma edule*)"
+description: "Amélie Lehuen^a^*, Chloé Dancie^b^, Florent Grasso^c^, Sven Smolders^d^, Francesco Cozzoli^e^, Francis Orvain^a^"
+author:
+  - name: Amélie Lehuen
+date: last-modified
+image: /Pictures/Melting_Potes_Schema.png
+categories: [Melting Potes, PhD] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+resources:
+  - "SDM_Suppl_Data.html"
+
+about:
+  template: solana
+  image: SDM Graphical abstract.png
+  # image-shape: round
+---
+
+^a^ Université de Caen Normandie, Marine Ecosystems and Organisms Research lab (MERSEA), UR 7482, 14032, Caen, cedex 5, France
+
+^b^ CSLN, Cellule de Suivi du Littoral Normand (CSLN), 53 rue de Prony, 76600 Le Havre, France
+
+^c^ Ifremer, DYNECO/DHYSED, F-29280 Plouzané, France.
+
+^d^ Flanders Hydraulics Research, dept. of Mobility and Public Works, Flemish Government
+
+^e^ es. Inst. on Terrestrial Ecosystems (IRET) – National Research Council of Italy (CNR) URT Lecce, Palazzina B - Complesso Ecotekne, via Monteroni 165, 73100 Lecce (LE) - Italia
+
+
+* Corresponding author : amelie.lehuen@gmail.com
+
+<!-- [Supplementary data](SDM_Suppl_Data.html) -->
+[Recommended by Peer Community In Ecology](https://normandie-univ.hal.science/hal-04438267)
+
+
+Correlative Species Distribution Models (SDMs) are powerful tools for understanding the spatial structure of ecological patterns and serve as a foundation for predicting the short-term effects of environmental changes on biological populations and for improving ecosystem management. However, due to complex and often non-linear interactions between biotic and abiotic factors, as well as irregular data distributions, SDMs are notoriously challenging to construct and validate, highlighting the need for continued research and methodological advancements in this active field of study. Quantile regression is a promising statistical technique to improve SDM as it can deal with data heteroskedasticity and provide a description of habitat suitability consistent with Liebig's Law of the Minimum. The aim of this study is to propose a tool for assessing habitat suitability of an estuary for a species, by defining its optimal ecological niche, which can be used for estuarine management, with a study case of Cerastoderma edule in the Seine estuary. The method involved applying quantile regression to a 20-year biological dataset coupled with a hydro-morpho-sedimentary model data set validated over a 25-year period, both at the scale of the estuary. To account for the complex distributional shapes, this study was carried out comparing three different types of equation (linear, Gaussian and B-spline). On the basis of a preliminary multivariate analysis of the physical descriptors, two models were built representing hydrodynamic, morphodynamical and sedimentary features: daily maximum current speed, inundation time and daily salinity range or mud content as a third predictor. The Gaussian quantile regression produced the best description of the optimal niche, at the 97.5th centile and using the biomass. The optimal ecological niche for C. edule appeared to be lower intertidal marine areas, with low current speed, low salinity fluctuation and a sediment bed composed of muddy sand in the Seine estuary. The calculation of habitat suitability index in this ecosystem was explored over a period of 25 years. The model using daily maximum current speed, inundation time and daily salinity range was also applied to data from the Scheldt basins, to test the reliability of the model, thus demonstrating that the model performs quite well, even though there were some differences of habitat suitability between these estuaries. This approach can allow direct comparisons of SDMs with one single Gaussian model and may offer new perspectives to investigate SDMs on a large scale.
+
+* Keywords
+
+Cerastoderma edule, quantile regression, species distribution model, optimum ecological niches, habitat suitability, cockle populations, estuaries
+

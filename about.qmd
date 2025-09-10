@@ -1,11 +1,11 @@
 ---
 title: "Resume"
 resources:
-  - "Amelie_Lehuen_CV_24_2.pdf"
-  - "Amelie_Lehuen_CV_24_2_UK.pdf"
+  - "Amelie_Lehuen_CV_25_conf.pdf"
+  - "Amelie_Lehuen_CV_25_UK_conf.pdf"
 ---
 
-[Download Resume](Amelie_Lehuen_CV_24_2_UK.pdf) - [Télécharger CV](Amelie_Lehuen_CV_24_2.pdf)
+[Download Resume](Amelie_Lehuen_CV_25_UK_conf.pdf) - [Télécharger CV](Amelie_Lehuen_CV_25_conf.pdf)
 
 ::: panel-tabset
 # Skills
@@ -31,19 +31,6 @@ resources:
 
 </div>
 
-<div>
-
-**Organization - management**
-
--   Full project management
-
--   Schedule building and monitoring
-
--   Budget definition and control
-
--   Leading a multidisciplinary team
-
-</div>
 :::
 
 # Education
@@ -59,7 +46,7 @@ resources:
 
 **2020-2023** - **PhD** - ED497 nBISE - Laboratory of biology of organisms and aquatic ecosystems (BOREA) MNHN, CNRS 8067, SU, IRD 207, UCN, UA, Caen
 
-Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES). Director: Francis Orvain
+Marine Ecosystem Engineers' Long-Term Evolution ModellING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES). Director: Francis Orvain
 
 -   Optimal Ecological Niche models (SDM-NEO) based on quantile regression and the MARS3D hydro-morpho-sedimentary model developed by IFREMER.
 
@@ -152,7 +139,7 @@ EValuation of the ecological functioning of lateral mudflats upstream of Tancarv
 
 **2023-24 (3months)** - Researcher Engineer – fixed-term contract – Caen University
 
-Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
+Marine Ecosystem Engineers' Long-Term Evolution ModellING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
 
 </div>
 :::
@@ -168,7 +155,7 @@ Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate c
 
 **2020-23 (3 years)** - PhD Researcher – Caen University
 
-Marine Ecosystem Engineers Long-Term Evolution ModelING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
+Marine Ecosystem Engineers' Long-Term Evolution ModellING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
 
 </div>
 :::
@@ -228,11 +215,11 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 ![](Pictures/picto/newspaper-regular.png){width="20"} **Publications**
 
--   Lehuen, A. and Orvain, F. (2024) A cockle-induced bioturbation model and its impact on sediment erodibility: A meta-analysis, Science of The Total Environment, 912, p. 168936. [https://doi.org/10.1016/j.scitotenv.2023.168936](https://doi.org/10.1016/j.scitotenv.2023.168936.
+-   Lehuen A. and Orvain F. (2024) A cockle-induced bioturbation model and its impact on sediment erodibility: A meta-analysis, Science of The Total Environment, 912, p. 168936. [https://doi.org/10.1016/j.scitotenv.2023.168936](https://doi.org/10.1016/j.scitotenv.2023.168936).
 
--   Lehuen A., Oulhen R.M., Zhou Z., de Smit J., Cozzoli F., Bouma T., Orvain Francis, 2023. Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. [https://doi.org/10.1016/j.seares.2024.102525](https://doi.org/10.1016/j.seares.2024.102525.
+-   Lehuen A., Oulhen R.M., Zhou Z., de Smit J., Cozzoli F., Bouma T., Orvain F. (2024) Multispecies macrozoobenthic seasonal bioturbation effect on sediment erodibility. [https://doi.org/10.1016/j.seares.2024.102525](https://doi.org/10.1016/j.seares.2024.102525).
 
--   Lehuen, A., Dancie, C., Grasso, F., et al., 2023. A quantile regression approach to define optimal ecological niche (habitat suitability) of cockle populations (*Cerastoderma edule*). [https://normandie-univ.hal.science/hal-04438267](https://normandie-univ.hal.science/hal-04438267. 
+-   Lehuen A., Dancie C., Grasso F., Smolders S., Cozzoli F. , Orvain F.. (2025) A novel quantile regression approach to define optimal ecological niche: a case study on habitat suitability of cockle populations (*Cerastoderma edule*), Peer Community In Ecology. [https://normandie-univ.hal.science/hal-04438267](https://normandie-univ.hal.science/hal-04438267). 
 
 <!-- -   Cozzoli, F, Shokri, M, Arduini, D et al, 2023. Looking at ecosystem engineering through a metabolic lens: mechanisms and implications in a context of climate change. Biological Reviews. -->
 
@@ -246,7 +233,7 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 -   Lehuen, A. et Orvain, F., 2022. Bioturbation model of Cerastoderma edule based on metabolic activity and sediment composition: a meta-analysis.
 
--   Lehuen, A. et Orvain, F., 2022. MELTING POTES Marine Ecosystem Engineers Long-Term Evolution: A ModelING study of benthic faunal activity and distribution in resPOnse to climate change and sediment Transport in Seine Estuary.
+-   Lehuen, A. et Orvain, F., 2022. MELTING POTES Marine Ecosystem Engineers' Long-Term Evolution: A ModellING study of benthic faunal activity and distribution in resPOnse to climate change and sediment Transport in Seine Estuary.
 
 *September 2022 -* [ECSA](https://www.estuarinecoastalconference.com/) *59 -- San Sebastian, Spain*
 
@@ -254,29 +241,12 @@ Evaluation of a stock of bivalves and associated fauna following a scientific re
 
 ![](Pictures/picto/users-line-solid.png){width="25"} **Expertise**
 
-Mai 2023 (4 days) - NEO workshop -- ILICO - Caen
+Mai 2023 (4 days) – Mai 2025 (5 days) –  Co-organization Workshops NEO & NEO2– ILICO - CREC
 
 -   Study of "Optimal Ecological Niche" species distribution models and inter-SNO (Systèmes National d'Observation) taxonomic and functional distribution: Coupling of hydro-biological data (low-frequency SOMLIT and high-frequency COASTHF) with planktonic (PHYTOBS) and benthic (BENTHOS) species distribution data in coastal ecosystems of mainland France. 15 attendees.
 
 
 # Responsibilities
-
-::: {layout="[[10,90]]"}
-<div>
-
-![](Pictures/logos/dreal-normandie.png){height="60"}
-
-</div>
-
-<div>
-
-
-**2024 (ongoing)** Member of Conseil Scientifique de l’Estuaire de la Seine (CSES) – DREAL Normandie
-The Council issues opinions on development programmes, works or management measures likely to have an impact on the functioning of estuarine ecosystems.
-
-</div>
-:::
-
 
 ::: {layout="[[10,90]]"}
 <div>
@@ -296,13 +266,30 @@ International working group on the resilience of ecosystems in the face of globa
 ::: {layout="[[10,90]]"}
 <div>
 
+![](Pictures/logos/dreal-normandie.png){height="60"}
+
+</div>
+
+<div>
+
+
+**2024-25** Member of Conseil Scientifique de l’Estuaire de la Seine (CSES) – DREAL Normandie
+The Council issues opinions on development programmes, works or management measures likely to have an impact on the functioning of estuarine ecosystems.
+
+</div>
+:::
+
+
+::: {layout="[[10,90]]"}
+<div>
+
 ![](Pictures/logos/GEMEL-Normandie_logo_s.png){width="47" height="50"}
 
 </div>
 
 <div>
 
-**2021 (ongoing)** Association Treasurer
+**2021-25** Association Treasurer
 
 -   **Finances**: Cash flow monitoring, budget forecasts, annual balance sheet. Implementation of cost accounting. Discussions with chartered accountant and statutory auditor.
 
@@ -356,7 +343,7 @@ International working group on the resilience of ecosystems in the face of globa
 
 -   2017 & 19: Jazz singing masterclass -- Jazzitudes, Lisieux
 
--   8 years of musical practice in band as singer and guitarist
+-   10 years of musical practice in band as singer and guitarist
 
 -   2012-17: Monthly open mike: Lavomatic Tour
 
