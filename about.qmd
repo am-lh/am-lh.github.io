@@ -114,13 +114,13 @@ Marine Ecosystem Engineers' Long-Term Evolution ModellING in resPOnse to climate
 ::: {layout="[[10,90]]"}
 <div>
 
-![](Pictures/logos/Logo_BOREA_final_blanc.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
+![](Pictures/logos/logo-mersea.png){width="122"} ![](Pictures/logos/Logo_Unicaen.png){width="87"}
 
 </div>
 
 <div>
 
-**2024-25 (15months)** - Post-Doc – fixed-term contract – Caen University
+**2024-25 (15 months)** - Post-Doc – fixed-term contract – Caen University
 
 EValuation of the ecological functioning of lateral mudflats upstream of Tancarville to guide new ecological restoration projects through a comparative approach to the functional biodiversity of benthic communities (EVEREST).
 
@@ -137,7 +137,7 @@ EValuation of the ecological functioning of lateral mudflats upstream of Tancarv
 
 <div>
 
-**2023-24 (3months)** - Researcher Engineer – fixed-term contract – Caen University
+**2023-24 (3 months)** - Researcher Engineer – fixed-term contract – Caen University
 
 Marine Ecosystem Engineers' Long-Term Evolution ModellING in resPOnse to climate change and sediment Transport in Seine Estuary (MELTING POTES).
 
